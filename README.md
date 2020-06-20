@@ -4,4 +4,4 @@ Tsubame é um bot criado com o objetivo de treinamento e aprendizado da linguage
 
 -----------------------------------------------------------------------------------------------------------------
 
-Tsubame is a bot created for training and learning of Javascript, using NodeJS Interpreter and Discord.JS Library
+Tsubame is a bot created for training and learning of Javascript, It uses NodeJS Interpreter and Discord.JS Library
